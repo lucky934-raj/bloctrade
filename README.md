@@ -1,5 +1,5 @@
 to run it
-git clone <url>
-cd <bloctrade>
-npm install
-npm run dev
+1)git clone <url>,
+2)cd <bloctrade>,
+3)npm install,
+4)npm run dev
